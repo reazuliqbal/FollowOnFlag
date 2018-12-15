@@ -1,0 +1,9 @@
+#Folders
+
+/node_modules
+
+# Files
+
+nodemon.json
+database.db
+.env
